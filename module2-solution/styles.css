@@ -71,7 +71,17 @@ h1{
     }
     #section3{
         width: 98%;
-        
+
         
     }
 }
+
+@media (max-width:767px){
+    section{
+        float: left;
+        width: 98%;
+    }
+}
+
+
+
